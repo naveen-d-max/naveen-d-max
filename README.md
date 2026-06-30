@@ -1,56 +1,173 @@
+# 👋 Hi, I'm Naveen D
+
 <div align="center">
 
-# Hi there, I'm NAVEEN D 👋
+### 🚀 AI & Data Science Student | Full-Stack Developer | UI/UX Designer
 
-   Full-Stack Developer | Building Smart Digital Solutions
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=AI%20%26%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Building%20Smart%20Digital%20Solutions)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Web+Development+%7C+Data+Science;Building+Projects+That+Solve+Real+Problems" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 💫 About Me
 
-B.Tech Artificial Intelligence & Data Science student at Paavai Engineering College, passionate about building full-stack web applications, AI-powered tools, and innovative hackathon projects. Active member of Team INFOTECH, with a strong interest in software development, UI/UX design, data analytics, and emerging technologies.
+🎓 B.Tech AI & Data Science Student
 
-- 🔭 Currently working on: **Currently building AI-powered applications, full-stack web solutions, and hackathon projects that solve real-world problems.**
-- 🏷️ Team: **INFOTECH2405**
-- 🌱 Learning: **AI Agents, LLMs, and Full-Stack Engineering**
-- 📍 Based in: **Tamil Nadu, India**
-- ⚡ Fun fact: I build entire apps as single HTML files!
+💻 Passionate Full-Stack Developer
+
+🤖 Interested in Artificial Intelligence & Machine Learning
+
+🎨 UI/UX Designer
+
+🚀 Building modern web applications and AI-powered solutions
+
+📚 Currently learning
+- Machine Learning
+- Deep Learning
+- Cloud Computing
+- DevOps
+- System Design
 
 ---
 
-## 🛠️ Skills & Technologies
+# 🛠 Tech Stack
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) 
+## Languages
 
-**Frameworks & Tools:**
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge) ![Anthropic API](https://img.shields.io/badge/Claude-D4A017?logo=anthropic&logoColor=white&style=for-the-badge) ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ---
 
-## 📊 GitHub Stats
+## Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+---
+
+## Backend
+
+- Node.js
+- Express.js
+- Prisma
+- Supabase
+
+---
+
+## Database
+
+- MySQL
+- PostgreSQL
+- MongoDB
+
+---
+
+## AI & Data Science
+
+- NumPy
+- Pandas
+- Scikit-Learn
+- TensorFlow
+- OpenCV
+
+---
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Figma
+- Postman
+
+---
+
+# 🚀 Featured Projects
+
+## 🔥 RC Fire Fighting Car
+
+- Arduino UNO
+- Bluetooth Control
+- Water Pump
+- Flame Sensor
+- Servo Motor
+
+---
+
+## 🤖 AI Chatbot
+
+- React
+- Node.js
+- AI API
+- Authentication
+
+---
+
+## 🌐 Portfolio Website
+
+Modern animated portfolio website.
+
+---
+
+## 📊 Student Management System
+
+Full-stack CRUD application.
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+---
+
+# 🌍 Connect with Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Portfolio: https://YOUR_PORTFOLIO
+- Email: your@email.com
+
+---
+
+# 💡 Quote
+
+> "Code. Learn. Build. Share. Repeat."
+
+---
 
 <div align="center">
 
-![NAVEEN D's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen-d-max&show_icons=true&theme=dark&hide_border=true&count_private=true)
+### ⭐ Thanks for visiting my profile!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=naveen-d-max&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-d-max&layout=compact&theme=dark&hide_border=true)
+Happy Coding 🚀
 
 </div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveen-dhanasekar-852187371/?isSelfProfile=false) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpsnaveen898@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveen-d-max)
-
-</div>
-
